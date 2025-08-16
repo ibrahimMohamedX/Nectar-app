@@ -34,7 +34,7 @@ lib/
 
 
 # Clone the repository
-git clone https://github.com/username/Nectar-app.git
+git clone https://github.com/ibrahimMohamedX/Nectar-app.git
 
 # Navigate to project directory
 cd Nectar-app
@@ -44,3 +44,4 @@ flutter pub get
 
 # Run the app
 flutter run
+
